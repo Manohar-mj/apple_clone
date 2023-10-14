@@ -1,0 +1,939 @@
+.parent-div {
+  width: 1280px;
+  height: 832px;
+  overflow: hidden;
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.FRAME-402-107 {
+  transform: rotate(0deg);
+  position: relative;
+  width: 1280px;
+  height: 832px;
+  left: 0px;
+  top: 0px;
+  opacity: 1;
+  overflow: hidden;
+  background: rgba(255, 255, 255, 1);
+}
+.FRAME-402-190 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 1280px;
+  height: 44px;
+  left: 0px;
+  top: 0px;
+  opacity: 1;
+  background: rgba(0, 0, 0, 0.8);
+}
+.FRAME-402-191 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 1024px;
+  height: 44px;
+  left: 128px;
+  top: 0px;
+  opacity: 1;
+}
+.FRAME-402-192 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 996px;
+  height: 44px;
+  left: 14px;
+  top: 0px;
+  opacity: 1;
+}
+.FRAME-402-193 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 30px;
+  height: 44px;
+  left: 0px;
+  top: 0px;
+  opacity: 1;
+}
+.FRAME-402-194 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 14px;
+  height: 44px;
+  left: 8px;
+  top: 0px;
+  opacity: 1;
+  overflow: hidden;
+}
+.FRAME-402-197 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  left: 8px;
+  top: 22px;
+  opacity: 1;
+  overflow: hidden;
+}
+.FRAME-402-198 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 46px;
+  height: 44px;
+  left: 54.75px;
+  top: 0px;
+  opacity: 1;
+}
+.FRAME-402-199 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 30px;
+  height: 44px;
+  left: 8px;
+  top: 0px;
+  opacity: 1;
+  overflow: hidden;
+}
+.FRAME-402-201 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  left: 8px;
+  top: 22px;
+  opacity: 1;
+  overflow: hidden;
+}
+.FRAME-402-202 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 39px;
+  height: 44px;
+  left: 125.5px;
+  top: 0px;
+  opacity: 1;
+}
+.FRAME-402-203 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 23px;
+  height: 44px;
+  left: 8px;
+  top: 0px;
+  opacity: 1;
+  overflow: hidden;
+}
+.FRAME-402-206 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  left: 8px;
+  top: 22px;
+  opacity: 1;
+  overflow: hidden;
+}
+.FRAME-402-207 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 40px;
+  height: 44px;
+  left: 189.25px;
+  top: 0px;
+  opacity: 1;
+}
+.FRAME-402-208 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 24px;
+  height: 44px;
+  left: 8px;
+  top: 0px;
+  opacity: 1;
+  overflow: hidden;
+}
+.FRAME-402-210 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  left: 8px;
+  top: 22px;
+  opacity: 1;
+  overflow: hidden;
+}
+.FRAME-402-211 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 54px;
+  height: 44px;
+  left: 254px;
+  top: 0px;
+  opacity: 1;
+}
+.FRAME-402-212 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 38px;
+  height: 44px;
+  left: 8px;
+  top: 0px;
+  opacity: 1;
+  overflow: hidden;
+}
+.FRAME-402-214 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  left: 8px;
+  top: 22px;
+  opacity: 1;
+  overflow: hidden;
+}
+.FRAME-402-215 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 51px;
+  height: 44px;
+  left: 332.75px;
+  top: 0px;
+  opacity: 1;
+}
+.FRAME-402-216 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 35px;
+  height: 44px;
+  left: 8px;
+  top: 0px;
+  opacity: 1;
+  overflow: hidden;
+}
+.FRAME-402-218 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  left: 8px;
+  top: 22px;
+  opacity: 1;
+  overflow: hidden;
+}
+.FRAME-402-219 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 58.984375px;
+  height: 44px;
+  left: 408.5px;
+  top: 0px;
+  opacity: 1;
+}
+.FRAME-402-220 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 43px;
+  height: 44px;
+  left: 7.9921875px;
+  top: 0px;
+  opacity: 1;
+  overflow: hidden;
+}
+.FRAME-402-222 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  left: 8px;
+  top: 22px;
+  opacity: 1;
+  overflow: hidden;
+}
+.FRAME-402-223 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 81px;
+  height: 44px;
+  left: 492.234375px;
+  top: 0px;
+  opacity: 1;
+}
+.FRAME-402-224 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 65px;
+  height: 44px;
+  left: 8px;
+  top: 0px;
+  opacity: 1;
+  overflow: hidden;
+}
+.FRAME-402-227 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  left: 8px;
+  top: 22px;
+  opacity: 1;
+  overflow: hidden;
+}
+.FRAME-402-228 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 96px;
+  height: 44px;
+  left: 597.984375px;
+  top: 0px;
+  opacity: 1;
+}
+.FRAME-402-229 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 80px;
+  height: 44px;
+  left: 8px;
+  top: 0px;
+  opacity: 1;
+  overflow: hidden;
+}
+.GROUP-402-230 {
+  position: absolute;
+  width: 80px;
+  height: 44px;
+  left: 0px;
+  top: 0px;
+  transform: rotate(0deg);
+  z-index: 1;
+  opacity: 1;
+}
+.FRAME-402-233 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  left: 8px;
+  top: 22px;
+  opacity: 1;
+  overflow: hidden;
+}
+.FRAME-402-234 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 82.984375px;
+  height: 44px;
+  left: 718.734375px;
+  top: 0px;
+  opacity: 1;
+}
+.FRAME-402-235 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 67px;
+  height: 44px;
+  left: 7.9921875px;
+  top: 0px;
+  opacity: 1;
+  overflow: hidden;
+}
+.FRAME-402-238 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  left: 8px;
+  top: 22px;
+  opacity: 1;
+  overflow: hidden;
+}
+.FRAME-402-239 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 60px;
+  height: 44px;
+  left: 826.46875px;
+  top: 0px;
+  opacity: 1;
+}
+.FRAME-402-240 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 44px;
+  height: 44px;
+  left: 8px;
+  top: 0px;
+  opacity: 1;
+  overflow: hidden;
+}
+.FRAME-402-242 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  left: 8px;
+  top: 22px;
+  opacity: 1;
+  overflow: hidden;
+}
+.FRAME-402-243 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 31px;
+  height: 52px;
+  left: 915px;
+  top: 6px;
+  opacity: 1;
+}
+.FRAME-402-244 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 15px;
+  height: 66px;
+  left: 7.78125px;
+  top: 0px;
+  opacity: 1;
+  overflow: hidden;
+}
+.FRAME-402-249 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 29px;
+  height: 44px;
+  left: 966.96875px;
+  top: 0px;
+  opacity: 1;
+}
+.FRAME-402-250 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 13px;
+  height: 44px;
+  left: 8px;
+  top: 0px;
+  opacity: 1;
+  overflow: hidden;
+}
+.GROUP-402-251 {
+  position: absolute;
+  width: 14.100000381469727px;
+  height: 44px;
+  left: -1px;
+  top: 0px;
+  transform: rotate(0deg);
+  z-index: 1;
+  opacity: 1;
+}
+.FRAME-402-254 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  left: 8px;
+  top: 22px;
+  opacity: 1;
+  overflow: hidden;
+}
+.FRAME-402-255 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 1269px;
+  height: 738px;
+  left: 7px;
+  top: 192px;
+  opacity: 1;
+  background: rgba(255, 255, 255, 1);
+}
+.FRAME-402-256 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 980px;
+  height: 1021.5px;
+  left: 145px;
+  top: 113px;
+  opacity: 1;
+}
+.FRAME-402-257 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 470.78125px;
+  height: 254.5px;
+  left: 255px;
+  top: -66px;
+  opacity: 1;
+}
+.FRAME-402-258 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 470.78125px;
+  height: 25px;
+  left: 0px;
+  top: 11px;
+  opacity: 1;
+}
+.FRAME-402-260 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  left: 235.390625px;
+  top: 25px;
+  opacity: 1;
+  overflow: hidden;
+}
+.FRAME-402-262 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 311.1875px;
+  height: 52.5px;
+  left: 79.796875px;
+  top: 81px;
+  opacity: 1;
+  overflow: hidden;
+}
+.FRAME-402-265 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 470.78125px;
+  height: 36px;
+  left: 0px;
+  top: 218.5px;
+  opacity: 1;
+}
+.FRAME-402-266 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 61.203125px;
+  height: 36px;
+  left: 132.4375px;
+  top: 0px;
+  opacity: 1;
+  background: rgba(0, 113, 227, 1);
+  border-radius: 980px;
+  border-top-left-radius: 980px;
+  border-top-right-radius: 980px;
+  border-bottom-left-radius: 980px;
+  border-bottom-right-radius: 980px;
+}
+.FRAME-402-268 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 116.703125px;
+  height: 25px;
+  left: 221.640625px;
+  top: 5.5px;
+  opacity: 1;
+}
+.FRAME-402-270 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 15.8125px;
+  height: 25px;
+  left: 100.890625px;
+  top: 0px;
+  opacity: 1;
+}
+.FRAME-402-108 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 1269px;
+  height: 66px;
+  left: 18px;
+  top: 0px;
+  opacity: 1;
+  background: rgba(255, 255, 255, 1);
+}
+.FRAME-402-455 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 1512px;
+  height: 100px;
+  left: -96px;
+  top: 44px;
+  opacity: 1;
+  background: rgba(255, 255, 255, 1);
+}
+.FRAME-402-456 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 1512px;
+  height: 100px;
+  left: 0px;
+  top: 0px;
+  opacity: 1;
+  overflow: hidden;
+}
+.FRAME-402-457 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 76.1875px;
+  height: 77px;
+  left: 171.671875px;
+  top: 3px;
+  opacity: 1;
+}
+.FRAME-402-458 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 40px;
+  height: 54px;
+  left: 18.09375px;
+  top: 0px;
+  opacity: 1;
+}
+.FRAME-402-459 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 40px;
+  height: 54px;
+  left: 0px;
+  top: 0px;
+  opacity: 1;
+  overflow: hidden;
+}
+.FRAME-402-464 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 54.1875px;
+  height: 77px;
+  left: 288.28125px;
+  top: 3px;
+  opacity: 1;
+}
+.FRAME-402-465 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 38px;
+  height: 54px;
+  left: 8.09375px;
+  top: 0px;
+  opacity: 1;
+}
+.FRAME-402-466 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 38px;
+  height: 54px;
+  left: 0px;
+  top: 0px;
+  opacity: 1;
+  overflow: hidden;
+}
+.FRAME-402-471 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 53.984375px;
+  height: 77px;
+  left: 382.890625px;
+  top: 3px;
+  opacity: 1;
+}
+.FRAME-402-472 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 36px;
+  height: 54px;
+  left: 8.984375px;
+  top: 0px;
+  opacity: 1;
+}
+.FRAME-402-473 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 36px;
+  height: 54px;
+  left: 0px;
+  top: 0px;
+  opacity: 1;
+  overflow: hidden;
+}
+.FRAME-402-477 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 55.6875px;
+  height: 77px;
+  left: 477.296875px;
+  top: 3px;
+  opacity: 1;
+}
+.FRAME-402-478 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 19px;
+  height: 54px;
+  left: 18.34375px;
+  top: 0px;
+  opacity: 1;
+}
+.FRAME-402-479 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 19px;
+  height: 54px;
+  left: 0px;
+  top: 0px;
+  opacity: 1;
+  overflow: hidden;
+}
+.FRAME-402-484 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 53.703125px;
+  height: 77px;
+  left: 573.40625px;
+  top: 3px;
+  opacity: 1;
+}
+.FRAME-402-485 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 22px;
+  height: 54px;
+  left: 15.84375px;
+  top: 0px;
+  opacity: 1;
+}
+.FRAME-402-486 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 22px;
+  height: 54px;
+  left: 0px;
+  top: 0px;
+  opacity: 1;
+  overflow: hidden;
+}
+.FRAME-402-490 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 50.484375px;
+  height: 77px;
+  left: 667.53125px;
+  top: 3px;
+  opacity: 1;
+}
+.FRAME-402-491 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 45px;
+  height: 54px;
+  left: 2.734375px;
+  top: 0px;
+  opacity: 1;
+}
+.FRAME-402-492 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 45px;
+  height: 54px;
+  left: 0px;
+  top: 0px;
+  opacity: 1;
+  overflow: hidden;
+}
+.FRAME-402-496 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 42.984375px;
+  height: 77px;
+  left: 758.4375px;
+  top: 3px;
+  opacity: 1;
+}
+.FRAME-402-497 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 39px;
+  height: 54px;
+  left: 1.984375px;
+  top: 0px;
+  opacity: 1;
+}
+.FRAME-402-498 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 39px;
+  height: 54px;
+  left: 0px;
+  top: 0px;
+  opacity: 1;
+  overflow: hidden;
+}
+.FRAME-402-502 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 34.578125px;
+  height: 77px;
+  left: 841.84375px;
+  top: 3px;
+  opacity: 1;
+}
+.FRAME-402-503 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 30px;
+  height: 54px;
+  left: 2.28125px;
+  top: 0px;
+  opacity: 1;
+}
+.FRAME-402-504 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 29px;
+  height: 54px;
+  left: 0.5px;
+  top: 0px;
+  opacity: 1;
+  overflow: hidden;
+}
+.FRAME-402-509 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 66.921875px;
+  height: 77px;
+  left: 916.84375px;
+  top: 3px;
+  opacity: 1;
+}
+.FRAME-402-510 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 40px;
+  height: 54px;
+  left: 13.453125px;
+  top: 0px;
+  opacity: 1;
+}
+.FRAME-402-511 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 40px;
+  height: 54px;
+  left: 0px;
+  top: 0px;
+  opacity: 1;
+  overflow: hidden;
+}
+.FRAME-402-515 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 61.78125px;
+  height: 77px;
+  left: 1024.1875px;
+  top: 3px;
+  opacity: 1;
+}
+.FRAME-402-516 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 36px;
+  height: 54px;
+  left: 12.890625px;
+  top: 0px;
+  opacity: 1;
+}
+.FRAME-402-517 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 36px;
+  height: 54px;
+  left: 0px;
+  top: 0px;
+  opacity: 1;
+  overflow: hidden;
+}
+.GROUP-402-518 {
+  position: absolute;
+  width: 36px;
+  height: 54px;
+  left: 0px;
+  top: 0px;
+  transform: rotate(0deg);
+  z-index: 1;
+  opacity: 1;
+}
+.GROUP-402-519 {
+  position: absolute;
+  width: 36px;
+  height: 54px;
+  left: 0px;
+  top: 0px;
+  transform: rotate(0deg);
+  z-index: 1;
+  opacity: 1;
+}
+.FRAME-402-523 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 35.734375px;
+  height: 77px;
+  left: 1126.390625px;
+  top: 3px;
+  opacity: 1;
+}
+.FRAME-402-524 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 32px;
+  height: 54px;
+  left: 1.859375px;
+  top: 0px;
+  opacity: 1;
+}
+.FRAME-402-525 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 32px;
+  height: 54px;
+  left: 0px;
+  top: 0px;
+  opacity: 1;
+  overflow: hidden;
+}
+.GROUP-402-526 {
+  position: absolute;
+  width: 32px;
+  height: 54px;
+  left: 0px;
+  top: 0px;
+  transform: rotate(0deg);
+  z-index: 1;
+  opacity: 1;
+}
+.GROUP-402-527 {
+  position: absolute;
+  width: 32px;
+  height: 54px;
+  left: 0px;
+  top: 0px;
+  transform: rotate(0deg);
+  z-index: 1;
+  opacity: 1;
+}
+.FRAME-402-531 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 69.78125px;
+  height: 77px;
+  left: 1202.546875px;
+  top: 3px;
+  opacity: 1;
+}
+.FRAME-402-532 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 58px;
+  height: 54px;
+  left: 5.890625px;
+  top: 0px;
+  opacity: 1;
+}
+.FRAME-402-533 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 58px;
+  height: 54px;
+  left: 0px;
+  top: 0px;
+  opacity: 1;
+  overflow: hidden;
+}
